@@ -21,9 +21,7 @@
 
 
 <div align="center">
-<img width="600" src="https://github.com/princexz/princexz/blob/main/Portfolio/img5.jpg" /> 
-<img width="600" src="https://github.com/princexz/princexz/blob/main/Portfolio/quiz.jpg" />
-<img width="600" src="https://github.com/princexz/princexz/blob/main/Portfolio/quiz1.jpg" />
+<img src="./Quiz.png" alt="Quiz-Application Interface.">
 </div>
 
 
@@ -46,10 +44,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # 🌐 Visit the website here
-<a href="https://princexz.github.io/Quiz-Application/">
-<img width="40" height="40" src="https://github.com/princexz/princexz/blob/main/Portfolio/github.png"></a>
-&nbsp;<a href="https://quizapplsite.netlify.app"><img width="40" height="40" src="https://github.com/princexz/princexz/blob/main/Portfolio/netlify.jpg"></a>
-&nbsp;<a href="https://quiz-application-pearl.vercel.app/"><img width="40" height="40" src="https://github.com/princexz/princexz/blob/main/Portfolio/vercel.png"></a>
+https://princexz.github.io/me/](https://princexz.github.io/Quiz-Application/
 
 # 📕 License
 This project is under <a href="https://github.com/princexz/Quiz-Application/blob/main/LICENSE">MIT</a> license.
