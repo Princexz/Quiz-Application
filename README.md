@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # 🌐 Visit the website here
-https://princexz.github.io/me/](https://princexz.github.io/Quiz-Application/
+https://princexz.github.io/Quiz-Application/
 
 # 📕 License
 This project is under <a href="https://github.com/princexz/Quiz-Application/blob/main/LICENSE">MIT</a> license.
